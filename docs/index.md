@@ -1,9 +1,9 @@
 ---
 hero:
-  title: fast-utiljs
-  desc: 一款面向复杂业务场景的javascript工具库
+  title: 我的博客
+  desc: 记录我的项目、经历
   actions:
-    - text: 开始使用
+    - text: Let's go
       link: /lib
 features:
   - icon: https://gw.alipayobjects.com/zos/bmw-prod/881dc458-f20b-407b-947a-95104b5ec82b/k79dm8ih_w144_h144.png
