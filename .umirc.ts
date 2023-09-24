@@ -2,8 +2,8 @@ import { defineConfig } from 'dumi';
 
 export default defineConfig({
   title: ' ',
-  // favicon: 'http://cdn.dooring.cn/dr/fast.png',
-  // logo: 'http://cdn.dooring.cn/dr/fast.png',
+  favicon: 'https://avatars.githubusercontent.com/u/37130892?v=4',
+  logo: 'https://avatars.githubusercontent.com/u/37130892?v=4',
   outputPath: 'dist',
   base: '/',
   publicPath: '/',
