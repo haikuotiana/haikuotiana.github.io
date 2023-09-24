@@ -2,7 +2,7 @@ export default {
   esm: 'rollup',
   cjs: 'rollup',
   umd: {
-    file: 'blog',
+    file: '',
   },
   runtimeHelpers: true,
 };
