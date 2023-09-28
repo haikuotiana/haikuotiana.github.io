@@ -1,3 +1,3 @@
 # Using Documents
 
-[访问地址](https://github.com/haikuotiana/haikuotiana.github.io)
+[访问地址](https://haikuotiana.github.io)
